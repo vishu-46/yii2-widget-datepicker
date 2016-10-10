@@ -2,7 +2,7 @@ Change Log: `yii2-widget-datepicker`
 ====================================
 ## version 1.4.3
 
-**Date:** 02-Sep-2016
+**Date:** 
 
 - (enh #116): Add Hindi and Gujarati Translations.
 
